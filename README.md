@@ -1,6 +1,7 @@
 # Restaurant-project
 
-A simple web application
+A simple web application for discovering his/her favorite restaurant
+
 
 ## Features
 
@@ -18,7 +19,7 @@ git clone https://github.com/yhhuangfrank/Restaurant-project.git
 2. 初始化
 
 ```
-cd restaurant project // 進入專案資料夾
+cd Restaurant-project // 進入專案資料夾
 npm install // 將所需的npm module安裝
 ```
 
