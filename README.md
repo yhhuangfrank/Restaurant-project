@@ -24,7 +24,7 @@ git clone https://github.com/yhhuangfrank/Restaurant-project.git
 cd Restaurant-project // 進入專案資料夾
 npm install // 將所需的npm module安裝
 ```
-3. 使用npm run start 執行出現下方訊息代表順利執行
+3. 使用 `npm run start` 執行若出現下方訊息代表順利執行
 
 ```
 Server is listening to http://localhost:3000
