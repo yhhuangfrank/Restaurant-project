@@ -1,6 +1,6 @@
 # Restaurant-project
 
-A simple web application for discovering his/her favorite restaurant
+A simple web application for discovering your favorite restaurant
 
 ![Previrew](https://github.com/yhhuangfrank/Restaurant-project/blob/main/public/image/website%20preview%20image.png)
 
