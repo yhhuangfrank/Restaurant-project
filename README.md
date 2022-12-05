@@ -7,7 +7,7 @@ A simple web application for discovering your favorite restaurant
 
 ## Features
 
-- 依照餐廳名稱(英文名稱)、類別、以及評分搜尋(顯示高於輸入值餐廳)
+- 依照餐廳名稱(或英文名稱)、類別、以及評分搜尋(顯示高於輸入值餐廳)
 - 點擊餐廳檢視詳細內容(包含電話、地址、google maps 位置等等)
 
 ### Installation
